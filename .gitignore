@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated database (rebuilt on every run)
+products.db
+
+# macOS
+.DS_Store
